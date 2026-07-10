@@ -86,9 +86,9 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=surajchi&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=surajchi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajchi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=surajchi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=surajchi&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=surajchi](https://github-profile-trophy.vercel.app/?username=surajchi&theme=tokyonight&no-frame=true&row=2&column=4)&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </p>
 
