@@ -28,7 +28,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/surajchinkate">
+<a target='blank' href="www.linkedin.com/in/surajchinkate">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
