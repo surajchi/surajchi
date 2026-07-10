@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Suraj C
+# Hi 👋, I'm Suraj Chinkate
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=900&lines=Cybersecurity+Enthusiast;Python+Developer;React+Developer;Linux+Learner;OpenShift+Learner;Cloud+Security+Explorer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
