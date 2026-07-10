@@ -28,7 +28,7 @@
 ## 🌐 Connect with Me
 
 <p align="center"> 
-   <a href="www.linkedin.com/in/surajchinkate">
+   <a href="https://www.linkedin.com/in/surajchinkate">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
    </a>
    <a href="https://surajchinkate.vercel.app"> 
@@ -87,9 +87,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajchi &show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajchi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajchi &layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajchi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -99,7 +99,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=surajchi &theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=surajchi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -109,7 +109,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=surajchi &theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=surajchi&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </p>
 
@@ -119,7 +119,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajchi &theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajchi&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
