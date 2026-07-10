@@ -28,20 +28,26 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a target='blank' href="www.linkedin.com/in/surajchinkate">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/surajchinkate"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://surajchinkate.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://surajchinkate.vercel.app"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:chinkatesuraj@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:chinkatesuraj@gmail.com"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 # 💻 Tech Stack
