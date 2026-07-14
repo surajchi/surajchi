@@ -91,10 +91,12 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=surajchi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
+
+<!-- 
 # 🔥 GitHub Streak
 
+---
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=surajchi&theme=tokyonight&hide_border=true"/>
@@ -110,7 +112,6 @@
 <img src="[https://github-profile-trophy.vercel.app/?username=surajchi](https://github-profile-trophy.vercel.app/?username=surajchi&theme=tokyonight&no-frame=true&row=2&column=4)&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -120,6 +121,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajchi&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+-->
+
 
 ---
 
